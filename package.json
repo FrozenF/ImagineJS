@@ -1,0 +1,27 @@
+{
+  "name": "imaginejs",
+  "version": "0.0.1",
+  "description": "Backend Framework for easier your life.",
+  "main": "app.js",
+  "scripts": {
+    "test": "imagine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrozenF/ImagineJS.git"
+  },
+  "keywords": [
+    "imagine",
+    "backend",
+    "js"
+  ],
+  "author": "Farih Nazihullah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FrozenF/ImagineJS/issues"
+  },
+  "homepage": "https://github.com/FrozenF/ImagineJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
